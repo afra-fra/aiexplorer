@@ -69,7 +69,6 @@ topic_data = load_json("topic_data.json")       # [{id, words, posts}, ...]
 comments_data = load_json("comments.json") # [{id, posts}, ...]
 
 
-
 # Sidebar navigation
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to", ["Posts Explorer", "Comments Explorer"])
@@ -80,6 +79,7 @@ if page == "Posts Explorer":
     topic_ids = [t["id"] for t in topic_data]
     selected = st.sidebar.selectbox("Select Topic", topic_ids, key="posts_topic")
     topic = next(t for t in topic_data if t["id"] == selected)
+
 
     st.subheader(f"Topic {topic['id']} — Top Words")
     # Filter out stop words (comparison in lowercase).
@@ -99,15 +99,26 @@ if page == "Posts Explorer":
       st.markdown(pills_top50, unsafe_allow_html=True)
 
     st.subheader("Sampled 10 Posts")
-    for post in topic["posts"]:
+    for post in topic["posts"][0:10]:
         st.markdown(f"- {post}")
+
+    with st.expander("Show posts 11-20"):
+      for post in topic["posts"][10:20]:
+        st.markdown(f"- {post}")
+        
+    with st.expander("Show posts 21-30"):
+      for post in topic["posts"][20:30]:
+        st.markdown(f"- {post}")
+      
+    
 
 else:  # Comments Explorer
     st.title("💬 Comments Explorer")
     comment_ids = [c["id"] for c in comments_data]
     selected = st.sidebar.selectbox("Select Topic", comment_ids, key="comments_topic")
     comment_group = next(c for c in comments_data if c["id"] == selected)
-    
+  
+
     st.subheader(f"Topic {comment_group['id']} — Top Words")
     top_n_default = 10
     top_n_expanded = 20
@@ -125,6 +136,14 @@ else:  # Comments Explorer
         st.markdown(pills_top50, unsafe_allow_html=True)
 
     st.subheader(f"Topic {comment_group['id']} — Sampled 10 Comments")
-    for comment in comment_group.get("posts", []):
+    for comment in comment_group.get('posts', [])[:10]:
         st.markdown(f"- {comment}")
+
+    with st.expander("Show comments 11-20"):
+        for comment in comment_group.get('posts', [])[10:20]:
+            st.markdown(f"- {comment}")
+
+    with st.expander("Show comments 21-30"):
+        for comment in comment_group.get('posts', [])[20:30]:
+            st.markdown(f"- {comment}")
 
