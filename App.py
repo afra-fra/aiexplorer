@@ -110,7 +110,7 @@ if page == "Posts Explorer":
 
     with st.expander("Show posts 11-20"):
         for post in topic["posts"][10:20]:
-            highlighted = highlight_text(post, topic["words"][:top_n_default])
+            highlighted = highlight_text(post, topic["words"][:top_n_expanded])
             st.markdown(f"- {highlighted}", unsafe_allow_html=True)
 
 # --- Comments Explorer ---
