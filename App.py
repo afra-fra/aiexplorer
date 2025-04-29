@@ -105,7 +105,7 @@ if page == "Posts Explorer":
     st.subheader("Sampled 10 Posts")
     # Highlight top-10 in posts
     for post in topic["posts"][0:10]:
-        highlighted = highlight_text(post, topic["words"][:top_n_default])
+        highlighted = highlight_text(post, topic["words"][:top_n_expanded])
         st.markdown(f"- {highlighted}", unsafe_allow_html=True)
 
     with st.expander("Show posts 11-20"):
@@ -123,30 +123,21 @@ else:
     st.subheader(f"Topic {comment_group['id']} — Top Words")
     top_n_default = 10
     top_n_expanded = 20
-    top50_count = 50
 
     pills_html = "".join(f"<span class='pill'>{w}</span>" for w in comment_group["words"][:top_n_default])
     st.markdown(pills_html, unsafe_allow_html=True)
 
     with st.expander("Show top 20 words"):
-        pills_expanded = "".join(f"<span class='pill'>{w}</span>" for w in comment_group["words"][:top_n_expanded])
+        pills_expanded = "".join(f"<span class='pill'>{w}</span>" for w in comment_group["words"][top_n_default:top_n_expanded])
         st.markdown(pills_expanded, unsafe_allow_html=True)
 
-    with st.expander("Show top 50 words"):
-        pills_top50 = "".join(f"<span class='pill'>{w}</span>" for w in comment_group["words"][:top50_count])
-        st.markdown(pills_top50, unsafe_allow_html=True)
-
     st.subheader(f"Topic {comment_group['id']} — Sampled 10 Comments")
-    for comment in comment_group.get('posts', [])[:10]:
-        highlighted = highlight_text(comment, comment_group["words"][:top_n_default])
+    for comment in comment_group.get('comments', [])[:10]:
+        highlighted = highlight_text(comment, comment_group["words"][:top_n_expanded])
         st.markdown(f"- {highlighted}", unsafe_allow_html=True)
 
     with st.expander("Show comments 11-20"):
-        for comment in comment_group.get('posts', [])[10:20]:
-            highlighted = highlight_text(comment, comment_group["words"][:top_n_default])
+        for comment in comment_group.get('comments', [])[10:20]:
+            highlighted = highlight_text(comment, comment_group["words"][:top_n_expanded])
             st.markdown(f"- {highlighted}", unsafe_allow_html=True)
 
-    with st.expander("Show comments 21-30"):
-        for comment in comment_group.get('posts', [])[20:30]:
-            highlighted = highlight_text(comment, comment_group["words"][:top_n_default])
-            st.markdown(f"- {highlighted}", unsafe_allow_html=True)
