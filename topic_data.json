@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": "Self Promotion Tutorials",
     "words": [
       "stable_diffusion",
       "free",
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "id": "Storytelling",
+    "id": "Using AI for Storytelling",
     "words": [
       "story",
       "man",
@@ -141,7 +141,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": "Jobs",
     "words": [
       "design",
       "art",
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "id": "Install Error TroubleShooting",
+    "id": "TroubleShooting",
     "words": [
       "file",
       "error",
@@ -282,7 +282,7 @@
     ]
   },
   {
-    "id": "Error TroubleShooting/Share scripts",
+    "id": "TroubleShooting",
     "words": [
       "x",
       "c",
@@ -329,7 +329,7 @@
     ]
   },
   {
-    "id": "Chatgpt response",
+    "id": "Experiment with AI (mostly chatgpt)",
     "words": [
       "chatgpt",
       "information",
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "id": "Options, thoughts, concerns",
+    "id": "Ethics",
     "words": [
       "people",
       "ai",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "id": "AI tools and learning about them",
+    "id": "How to make use of AI Tools",
     "words": [
       "ai",
       "chatgpt",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": "Experiment with AI",
     "words": [
       "world",
       "human",
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "id": "Error TroubleShooting",
+    "id": "TroubleShooting",
     "words": [
       "line",
       "file",
@@ -564,7 +564,7 @@
     ]
   },
   {
-    "id": "Model Training and Lora",
+    "id": "Model Training",
     "words": [
       "model",
       "images",
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "id": "Chatgpt prompts",
+    "id": "Prompt",
     "words": [
       "chatgpt",
       "prompt",
@@ -658,7 +658,7 @@
     ]
   },
   {
-    "id": "AI Generated Art",
+    "id": "AI Generated Conent (not sure)",
     "words": [
       "ai",
       "art",
@@ -799,7 +799,7 @@
     ]
   },
   {
-    "id": "Help-seeking",
+    "id": "Ask for help",
     "words": [
       "use",
       "help",
@@ -846,7 +846,7 @@
     ]
   },
   {
-    "id": "Hardware, GPU, Memory",
+    "id": "Hardware related to AI image generation",
     "words": [
       "gpu",
       "vram",
@@ -940,7 +940,7 @@
     ]
   },
   {
-    "id": "AI Ethics",
+    "id": "Ethics",
     "words": [
       "ai",
       "human",
@@ -987,7 +987,7 @@
     ]
   },
   {
-    "id": "AI tools usage, output quality and capacities",
+    "id": "(Not Sure)",
     "words": [
       "got",
       "tried",
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "id": "prompt crafting",
+    "id": "Prompt",
     "words": [
       "prompt",
       "quality",
@@ -1081,7 +1081,7 @@
     ]
   },
   {
-    "id": "Sharing, Feedback, and Help",
+    "id": "Community: Rules, Sharing, Feedback, Help",
     "words": [
       "share",
       "help",
@@ -1128,7 +1128,7 @@
     ]
   },
   {
-    "id": "image generation, comfyui, controlnet, img2img",
+    "id": "Image generation models/settings",
     "words": [
       "image",
       "images",

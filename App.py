@@ -76,8 +76,8 @@ def highlight_text(text, words):
     return text
 
 # Load data
-topic_data = load_json("topic_data.json")
-comments_data = load_json("comments.json")
+topic_data = load_json("posts_25.json")
+comments_data = load_json("comments_20.json")
 
 # Sidebar navigation
 st.sidebar.title("Navigation")
