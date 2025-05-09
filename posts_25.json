@@ -1,6 +1,6 @@
 [
   {
-    "id": "Ethics: OpenAI policy",
+    "id": "Policy Discussion", 
     "words": [
       "people",
       "ai",
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "id": "Chatgpt costs/free, Access",
+    "id": "Chatgpt Access& Subscription",
     "words": [
       "chatgpt",
       "gpt",
@@ -141,7 +141,7 @@
     ]
   },
   {
-    "id": "Experiment with Chatgpt, Model behavior and Failures",
+    "id": "Chatgpt Model Behavior & Failures",
     "words": [
       "chatgpt",
       "information",
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "id": "Troubleshooting Ask for Help",
+    "id": "Troubleshooting",
     "words": [
       "error",
       "install",
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "id": "AI Art Sharing, Community Engagement, Promotion",
+    "id": "AI Art Sharing & Impact on Creative Industry",
     "words": [
       "ai",
       "art",
@@ -282,7 +282,7 @@
     ]
   },
   {
-    "id": "Chatgpt response: confused ask for help",
+    "id": "AI Tool Performance & Reliability",
     "words": [
       "tried",
       "got",
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "id": "AI (chatgpt) Generated Writing Content",
+    "id": "Chatgpt Writing Content (combined with other topic)",
     "words": [
       "world",
       "life",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "id": "Troubleshooting Ask for Help",
+    "id": "Troubleshooting Ask for Help (combined with anorher topic)",
     "words": [
       "file",
       "line",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "id": "Chagpt answers, model behavior, ask political questions",
+    "id": "Chatgpt Model Behavior and Failures (combined with another topic)",
     "words": [
       "war",
       "political",
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "id": "Help-Seeking, Resoures, Tutorials Sharing",
+    "id": "Image Generation Tools Hardware",
     "words": [
       "stable_diffusion",
       "pc",
@@ -564,7 +564,7 @@
     ]
   },
   {
-    "id": "Scripts sharing, resources sharing, feedback, community",
+    "id": "AI Integration & Workflow Sharing",
     "words": [
       "file",
       "image",
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "id": "Dropped",
+    "id": "Chatgpt and Games? (Dropped)",
     "words": [
       "game",
       "player",
@@ -658,7 +658,7 @@
     ]
   },
   {
-    "id": "Help-Seeking",
+    "id": "Configuration, Prompts & Workflows for Generative AI Tools",
     "words": [
       "use",
       "help",
@@ -752,7 +752,7 @@
     ]
   },
   {
-    "id": "Photography",
+    "id": "Photography (dropped)",
     "words": [
       "photos",
       "camera",
@@ -846,7 +846,7 @@
     ]
   },
   {
-    "id": "Imgae Generation Models: Asking for suggestions",
+    "id": "AI News Discussion",
     "words": [
       "ai",
       "openai",
@@ -893,7 +893,7 @@
     ]
   },
   {
-    "id": "Image Gneration (promopt, help, models)",
+    "id": "Image Gneration combined with other topic",
     "words": [
       "image",
       "prompt",
@@ -940,7 +940,7 @@
     ]
   },
   {
-    "id": "Ethics",
+    "id": "AI Reasoning & Societal Impact",
     "words": [
       "ai",
       "human",
@@ -987,7 +987,7 @@
     ]
   },
   {
-    "id": "Career",
+    "id": "Jobs (dropped)",
     "words": [
       "art",
       "design",
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "id": "AI Model,data, large language models",
+    "id": "Model Mechanisms & Implementation",
     "words": [
       "model",
       "data",
@@ -1081,7 +1081,7 @@
     ]
   },
   {
-    "id": "Help-seeking, sharing, communities",
+    "id": "Stable Diffusion/SDXL & LoRA Training and Image Enhancement Workflows",
     "words": [
       "model",
       "image",
@@ -1128,7 +1128,7 @@
     ]
   },
   {
-    "id": "AI tools intergation, suggestions",
+    "id": "AI Integration & Community Collaboration",
     "words": [
       "ai",
       "models",
