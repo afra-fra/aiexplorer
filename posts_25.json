@@ -1,6 +1,6 @@
 [
   {
-    "id": "Policy Discussion", 
+    "id": "0 - User frustrations with Gen AI (Policy & Output Quality)", 
     "words": [
       "people",
       "ai",
@@ -47,7 +47,7 @@
     ]
   },
   {
-    "id": "Troubleshooting (Share Scripts)",
+    "id": "1 - Troubleshooting (Share Scripts)",
     "words": [
       "false",
       "true",
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "id": "Chatgpt Access& Subscription",
+    "id": "2 - Chatgpt Access& Subscription",
     "words": [
       "chatgpt",
       "gpt",
@@ -141,7 +141,7 @@
     ]
   },
   {
-    "id": "Chatgpt Model Behavior & Failures",
+    "id": "3 - Chatgpt Model Behavior & Failures",
     "words": [
       "chatgpt",
       "information",
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "id": "Troubleshooting",
+    "id": "4 - Troubleshooting",
     "words": [
       "error",
       "install",
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "id": "AI Art Sharing & Impact on Creative Industry",
+    "id": "5 - AI Art Sharing & Impact on Creative Industry",
     "words": [
       "ai",
       "art",
@@ -282,7 +282,7 @@
     ]
   },
   {
-    "id": "AI Tool Performance & Reliability",
+    "id": "6 - AI Tool Performance & Reliability",
     "words": [
       "tried",
       "got",
@@ -329,7 +329,7 @@
     ]
   },
   {
-    "id": "Prompt Engineering",
+    "id": "7 - Prompt Engineering",
     "words": [
       "prompt",
       "quality",
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "id": "Chatgpt Writing Content (combined with other topic)",
+    "id": "8 - Chatgpt Writing Content (combined with other topic)",
     "words": [
       "world",
       "life",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "id": "Troubleshooting Ask for Help (combined with anorher topic)",
+    "id": "9 - Troubleshooting Ask for Help (combined with anorher topic)",
     "words": [
       "file",
       "line",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "id": "Chatgpt Model Behavior and Failures (combined with another topic)",
+    "id": "10 - Chatgpt Model Behavior and Failures (combined with another topic)",
     "words": [
       "war",
       "political",
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "id": "Image Generation Tools Hardware",
+    "id": "11 - Image Generation Tools Configuration",
     "words": [
       "stable_diffusion",
       "pc",
@@ -564,7 +564,7 @@
     ]
   },
   {
-    "id": "AI Integration & Workflow Sharing",
+    "id": "12 - AI Integration & Workflow Sharing",
     "words": [
       "file",
       "image",
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "id": "Chatgpt and Games? (Dropped)",
+    "id": "13 - Chatgpt and Games? (Dropped)",
     "words": [
       "game",
       "player",
@@ -658,7 +658,7 @@
     ]
   },
   {
-    "id": "Configuration, Prompts & Workflows for Generative AI Tools",
+    "id": "14 - Configuration, Prompts & Workflows for Generative AI Tools",
     "words": [
       "use",
       "help",
@@ -705,7 +705,7 @@
     ]
   },
   {
-    "id": "Dropped",
+    "id": "15 - Dropped",
     "words": [
       "story",
       "man",
@@ -752,7 +752,7 @@
     ]
   },
   {
-    "id": "Photography (dropped)",
+    "id": "16 - Photography (dropped)",
     "words": [
       "photos",
       "camera",
@@ -799,7 +799,7 @@
     ]
   },
   {
-    "id": "Chatgpt for writing",
+    "id": "17 - Chatgpt for writing",
     "words": [
       "chatgpt",
       "gpt",
@@ -846,7 +846,7 @@
     ]
   },
   {
-    "id": "AI News Discussion",
+    "id": "18 - AI News Discussion",
     "words": [
       "ai",
       "openai",
@@ -893,7 +893,7 @@
     ]
   },
   {
-    "id": "Image Gneration combined with other topic",
+    "id": "19 - Image Gneration combined with other topic",
     "words": [
       "image",
       "prompt",
@@ -940,7 +940,7 @@
     ]
   },
   {
-    "id": "AI Reasoning & Societal Impact",
+    "id": "20 - AI Capacities & Societal Impact",
     "words": [
       "ai",
       "human",
@@ -987,7 +987,7 @@
     ]
   },
   {
-    "id": "Jobs (dropped)",
+    "id": "21 - Jobs (dropped)",
     "words": [
       "art",
       "design",
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "id": "Model Mechanisms & Implementation",
+    "id": "22 - Model Mechanisms & Implementation",
     "words": [
       "model",
       "data",
@@ -1081,7 +1081,7 @@
     ]
   },
   {
-    "id": "Stable Diffusion/SDXL & LoRA Training and Image Enhancement Workflows",
+    "id": "23 - Stable Diffusion/SDXL & LoRA Training and Image Enhancement Workflows",
     "words": [
       "model",
       "image",
@@ -1128,7 +1128,7 @@
     ]
   },
   {
-    "id": "AI Integration & Community Collaboration",
+    "id": "24 - AI Integration & Community Collaboration",
     "words": [
       "ai",
       "models",

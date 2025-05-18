@@ -1,6 +1,6 @@
 [
   {
-    "id": "Dropped",
+    "id": "0 - Not really AI related - Dropped",
     "words": [
       "look",
       "color",
@@ -47,7 +47,7 @@
     ]
   },
   {
-    "id": "Rules",
+    "id": "1 - Bot Rule: Comment with Prompt You Used",
     "words": [
       "bot",
       "ai",
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "id": "Rules",
+    "id": "2 - Bot Rule: Comment with Prompt You Used",
     "words": [
       "image",
       "post",
@@ -141,7 +141,7 @@
     ]
   },
   {
-    "id": "Comprehensive Perspectives on AI: Technical Methods, Ethical & Legal Considerations, and Real-World Applications ",
+    "id": "3 - AI Language Model",
     "words": [
       "ai",
       "human",
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "id": "Dropped",
+    "id": "4 - AI Image Generation: Capacities and Limitations",
     "words": [
       "world",
       "man",
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "id": "AI Adoption, Governance (tesla model mixed)",
+    "id": "5 - AI Industry Dynamics",
     "words": [
       "ai",
       "people",
@@ -282,7 +282,7 @@
     ]
   },
   {
-    "id": "Chatgpt API, Access, Limitations",
+    "id": "6 - Chatgpt API, Access, Limitations",
     "words": [
       "chatgpt",
       "use",
@@ -329,7 +329,7 @@
     ]
   },
   {
-    "id": "AI Art, Human, Copyrights",
+    "id": "7 - AI Art and Copyright",
     "words": [
       "ai",
       "art",
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "id": "(Not sure)",
+    "id": "8 - AI Glitches (Model Failures)",
     "words": [
       "ai",
       "think",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "id": "Rules",
+    "id": "9 - Bot Rule",
     "words": [
       "post",
       "questions",
@@ -470,7 +470,7 @@
     ]
   },
   {
-    "id": "Rules",
+    "id": "10 - Bot Rule: Comment with Prompt You Used (combined with other topic)",
     "words": [
       "bot",
       "prompt",
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "id": "AI Model Behavior",
+    "id": "11 - AI Model Behavior",
     "words": [
       "ai",
       "chatgpt",
@@ -564,7 +564,7 @@
     ]
   },
   {
-    "id": "Prompt Engineering",
+    "id": "12 - Prompt Engineering",
     "words": [
       "prompt",
       "model",
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "id": "Image Generation Models and Prompt Engineering",
+    "id": "13 - Image Generation Models and Prompt",
     "words": [
       "model",
       "image",
@@ -658,7 +658,7 @@
     ]
   },
   {
-    "id": "Dropped",
+    "id": "14 - Dropped",
     "words": [
       "people",
       "safety",
@@ -705,7 +705,7 @@
     ]
   },
   {
-    "id": "Troubleshooting",
+    "id": "15 - Troubleshooting",
     "words": [
       "model",
       "use",
@@ -752,7 +752,7 @@
     ]
   },
   {
-    "id": "(Not sure)",
+    "id": "16 - Moderation and Bots - dropped",
     "words": [
       "art",
       "link",
@@ -799,7 +799,7 @@
     ]
   },
   {
-    "id": "Rules",
+    "id": "17 - Rules: artists job stuff",
     "words": [
       "artist",
       "check",
@@ -846,7 +846,7 @@
     ]
   },
   {
-    "id": "Rules",
+    "id": "18 - Rules: image should have dalle watermark",
     "words": [
       "links",
       "use",
@@ -893,7 +893,7 @@
     ]
   },
   {
-    "id": "Photography (dropped)",
+    "id": "19 - Photography (dropped)",
     "words": [
       "camera",
       "use",
